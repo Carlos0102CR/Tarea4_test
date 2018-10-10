@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Tarea4_test/v15
+/EstDatos_Tarea05/.vs/EstDatos_Tarea05/v15
+/.vs
+/EstDatos_Tarea05/obj
+/Trees_Library/bin/Debug
+/Trees_Library/obj
+/EstDatos_Tarea05/bin/Debug
+/EstDatos_Tarea05/Properties
